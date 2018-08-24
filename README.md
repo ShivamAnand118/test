@@ -1,2 +1,2 @@
 # test
-nothing
+demonstrate command
